@@ -95,4 +95,4 @@ Tm = ΔH / (ΔS + R·ln(CT/4)) − 273.15 + 16.6·log₁₀([Na⁺])
 
 ## Licencia
 
-MIT © 2025 Augusto Manubens — CIENBIO SpA
+MIT © 2026 Augusto Manubens — CIENBIO SpA
